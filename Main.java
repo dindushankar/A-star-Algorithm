@@ -211,7 +211,7 @@ public class Main {
 		System.out.println("Artificial Intelligence");
 		System.out.println("MP1: A* for Sliding Puzzle");
 		System.out.println("SEMESTER: SPRING 2021");
-		System.out.println("NAME: VIKAS GOODE");
+		System.out.println("NAME: SHANKAR DINDU");
 		System.out.println("");
 		System.out.println("START");
 		//final InputReader in = new InputReader(new FileInputStream("./src/interview/input3.txt"));
